@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSearchDupFinder", "WebSearchDupFinder.csproj", "{998F8C58-D6F2-4BD0-9C98-DC8EF97B096C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zealocity", "..\..\Zealocity\Zealocity\Zealocity.csproj", "{05C6635B-3505-4242-854A-1198C7B597F4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{998F8C58-D6F2-4BD0-9C98-DC8EF97B096C}.Debug.ActiveCfg = Debug|.NET
+		{998F8C58-D6F2-4BD0-9C98-DC8EF97B096C}.Debug.Build.0 = Debug|.NET
+		{998F8C58-D6F2-4BD0-9C98-DC8EF97B096C}.Release.ActiveCfg = Release|.NET
+		{998F8C58-D6F2-4BD0-9C98-DC8EF97B096C}.Release.Build.0 = Release|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug.ActiveCfg = Debug|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug.Build.0 = Debug|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release.ActiveCfg = Release|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

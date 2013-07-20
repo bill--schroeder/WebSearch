@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebKeyWordUpdater", "WebKeyWordUpdater.csproj", "{A7313B31-0A43-4190-B68F-4A0EF40F16C9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zealocity", "..\..\Zealocity\Zealocity\Zealocity.csproj", "{05C6635B-3505-4242-854A-1198C7B597F4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A7313B31-0A43-4190-B68F-4A0EF40F16C9}.Debug.ActiveCfg = Debug|.NET
+		{A7313B31-0A43-4190-B68F-4A0EF40F16C9}.Debug.Build.0 = Debug|.NET
+		{A7313B31-0A43-4190-B68F-4A0EF40F16C9}.Release.ActiveCfg = Release|.NET
+		{A7313B31-0A43-4190-B68F-4A0EF40F16C9}.Release.Build.0 = Release|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug.ActiveCfg = Debug|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug.Build.0 = Debug|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release.ActiveCfg = Release|.NET
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler.csproj", "{EDFFFCBA-4CCF-48AA-AD57-DAF29FCB97AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zealocity", "..\..\Zealocity\Zealocity\Zealocity.csproj", "{05C6635B-3505-4242-854A-1198C7B597F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFFFCBA-4CCF-48AA-AD57-DAF29FCB97AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFFFCBA-4CCF-48AA-AD57-DAF29FCB97AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFFFCBA-4CCF-48AA-AD57-DAF29FCB97AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFFFCBA-4CCF-48AA-AD57-DAF29FCB97AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C6635B-3505-4242-854A-1198C7B597F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
